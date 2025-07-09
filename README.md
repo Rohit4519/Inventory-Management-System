@@ -19,4 +19,6 @@ An inventory management system designed to help users efficiently manage product
 - Interactive tables and charts for data visualization
 
 ## Screenshots
+
+-  Navigation Bar & Dashboard
 -  ![Navigation Bar & Dashboard](Images/Dashboard.png)
