@@ -17,3 +17,5 @@ An inventory management system designed to help users efficiently manage product
 - Product and inventory tracking
 - Stock monitoring and reporting
 - Interactive tables and charts for data visualization
+
+-  ![Navigation Bar & Dashboard](Images/Dashboard.png)
